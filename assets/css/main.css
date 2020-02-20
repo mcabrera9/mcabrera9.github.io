@@ -223,7 +223,11 @@ input, select, textarea {
 			overflow-x: auto;
 			padding: 1em 1.5em;
 		}
+#sample {
+	outline: medium dashed #C9DDFF;
+	padding: 10px;
 
+}
 	.align-left {
 		text-align: left;
 	}
