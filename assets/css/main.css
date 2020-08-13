@@ -223,8 +223,8 @@ input, select, textarea {
 			overflow-x: auto;
 			padding: 1em 1.5em;
 		}
-#sample {
-	outline: medium dashed #C9DDFF;
+#portfolio-image {
+	background-color: grey;
 	padding: 10px;
 
 }
